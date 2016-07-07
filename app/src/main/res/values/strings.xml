@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ListViewBackend</string>
+    <string name="short_details">short details</string>
+    <string name="title">title</string>
+</resources>
